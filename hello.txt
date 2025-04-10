@@ -1,0 +1,18 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\AKSHAY MORTHAD\Desktop\Jenkins> git init
+Reinitialized existing Git repository in C:/Users/AKSHAY MORTHAD/Desktop/Jenkins/.git/
+PS C:\Users\AKSHAY MORTHAD\Desktop\Jenkins> git add .
+PS C:\Users\AKSHAY MORTHAD\Desktop\Jenkins> git commit -m "ff"
+[master 448b190] ff
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 hello.txt
+PS C:\Users\AKSHAY MORTHAD\Desktop\Jenkins> git branch main
+fatal: a branch named 'main' already exists
+PS C:\Users\AKSHAY MORTHAD\Desktop\Jenkins> git branch main
+fatal: a branch named 'main' already exists
+PS C:\Users\AKSHAY MORTHAD\Desktop\Jenkins> git push origin main
+Everything up-to-date
